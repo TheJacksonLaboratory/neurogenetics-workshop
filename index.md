@@ -28,4 +28,4 @@ subtitle: The Jackson Laboratory, Bar Harbor ME
 | Shawn      | Winter      | 52.15.241.103  | [Jupyter](http://52.15.241.103:8888)  | [Webserver](http://52.15.241.103)  |
 | Stanley    | Yang        | 13.58.109.32   | [Jupyter](http://13.58.109.32:8888)   | [Webserver](http://13.58.109.32)   |
 | Mohan      | Bolisetty   | 52.14.134.216  | [Jupyter](http://52.14.134.216:8888)  | [Webserver](http://52.14.134.216)  |
-|            |             | 52.15.150.249  | [Jupyter](http://52.15.150.250:8888)  | [Webserver](http://52.15.150.250)  |
+|            |             | 52.15.150.250  | [Jupyter](http://52.15.150.250:8888)  | [Webserver](http://52.15.150.250)  |
