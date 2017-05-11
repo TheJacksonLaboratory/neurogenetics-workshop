@@ -4,7 +4,7 @@ title:  Workshop on Neurogenetic Tools
 subtitle: The Jackson Laboratory, Bar Harbor ME
 ---
 
-### user Instances
+### User Instances
 
 | first_Name | last_Name   | hostname       | Notebook                              | Webserver                          |
 |------------|-------------|----------------|---------------------------------------|------------------------------------|
