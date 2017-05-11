@@ -9,7 +9,7 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "https://thejacksonlaboratory.github.io/neurogenetics-workshop/"
-baseurl: "/workshop"
+baseurl: "/neurogenetics-workshop"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
