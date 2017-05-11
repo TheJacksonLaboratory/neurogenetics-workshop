@@ -4,18 +4,28 @@ title:  Workshop on Neurogenetic Tools
 subtitle: The Jackson Laboratory, Bar Harbor ME
 ---
 
-# Setting up
+### user Instances
 
-A remote computer (instance) on Amazon Web Services has been set up for use in training for each user. All instances are identical with the same working environment. You should be able to connect from PC, Mac or Linux. Please see below for the instructions.
-
-### User Instances
-
-| Participant         | Institution                                                       | IP address                                        | Services                                                                                                                                             |
-|---------------------|-------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chuang, Jeff        | The Jackson Laboratory                                            | ec2-54-175-44-59.compute-1.amazonaws.com          | [Terminal](http://ec2-54-175-44-59.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-175-44-59.compute-1.amazonaws.com:8787)                   |
-| Graber, Joel        | The Jackson Laboratory                                            | ec2-54-172-49-173.compute-1.amazonaws.com         | [Terminal](http://ec2-54-172-49-173.compute-1.amazonaws.com:57575), [RStudio](http://ec2-54-172-49-173.compute-1.amazonaws.com:8787)                 |
-| Ahlander, Joseph    | Northeastern State University                                     | ec2-54-67-77-21.us-west-1.compute.amazonaws.com   | [Terminal](http://ec2-54-67-77-21.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-67-77-21.us-west-1.compute.amazonaws.com:8787)     |
-| Arciero, Michael    | University of New England                                         | ec2-52-53-224-152.us-west-1.compute.amazonaws.com | [Terminal](http://ec2-52-53-224-152.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-52-53-224-152.us-west-1.compute.amazonaws.com:8787) |
-| Castillo, Maria     | New Mexico State University                                       | ec2-54-67-115-133.us-west-1.compute.amazonaws.com | [Terminal](http://ec2-54-67-115-133.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-67-115-133.us-west-1.compute.amazonaws.com:8787) |
-| Corey-Rivas, Sarah  | New Mexico Highlands University                                   | ec2-54-67-101-153.us-west-1.compute.amazonaws.com | [Terminal](http://ec2-54-67-101-153.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-67-101-153.us-west-1.compute.amazonaws.com:8787) |
-| Das, Asis           | UCONN Health                                                      | ec2-54-153-40-94.us-west-1.compute.amazonaws.com  | [Terminal](http://ec2-54-153-40-94.us-west-1.compute.amazonaws.com:57575), [RStudio](http://ec2-54-153-40-94.us-west-1.compute.amazonaws.com:8787)   |
+| first_Name | last_Name   | hostname       | Notebook                       | Webserver                   |
+|------------|-------------|----------------|--------------------------------|-----------------------------|
+| David      | Brici       | 54.87.137.47   | [Jupyter](54.87.137.47:8888)   | [Webserver](54.87.137.47)   |
+| Weisheng   | Chen        | 54.90.107.230  | [Jupyter](54.90.107.230:8888)  | [Webserver](54.90.107.230)  |
+| Linda      | Cumner      | 34.203.31.95   | [Jupyter](34.203.31.95:8888)   | [Webserver](34.203.31.95)   |
+| Sarah      | DeVos       | 52.90.20.230   | [Jupyter](52.90.20.230:8888)   | [Webserver](52.90.20.230)   |
+| Jing       | Feng        | 54.224.28.85   | [Jupyter](54.224.28.85:8888)   | [Webserver](54.224.28.85)   |
+| Dongeun    | Heo         | 34.203.10.36   | [Jupyter](34.203.10.36:8888)   | [Webserver](34.203.10.36)   |
+| Simon      | Kheifets    | 34.224.39.222  | [Jupyter](34.224.39.222:8888)  | [Webserver](34.224.39.222)  |
+| Stephanie  | Kyle        | 52.90.23.65    | [Jupyter](52.90.23.65:8888)    | [Webserver](52.90.23.65)    |
+| Chantal    | Longo-Guess | 54.88.179.95   | [Jupyter](54.88.179.95:8888)   | [Webserver](54.88.179.95)   |
+| Marie      | Lucienne    | 34.207.243.128 | [Jupyter](34.207.243.128:8888) | [Webserver](34.207.243.128) |
+| Kathy      | Morelli     | 54.90.241.158  | [Jupyter](54.90.241.158:8888)  | [Webserver](54.90.241.158)  |
+| Chiamaka   | Nwakeze     | 34.224.32.85   | [Jupyter](34.224.32.85:8888)   | [Webserver](34.224.32.85)   |
+| Andrew     | Ouellette   | 52.72.236.120  | [Jupyter](52.72.236.120:8888)  | [Webserver](52.72.236.120)  |
+| Travis     | Rotterman   | 54.85.65.196   | [Jupyter](54.85.65.196:8888)   | [Webserver](54.85.65.196)   |
+| Mohammad   | Uddin       | 13.58.110.53   | [Jupyter](13.58.110.53:8888)   | [Webserver](13.58.110.53)   |
+| Joe        | Webb        | 52.15.68.119   | [Jupyter](52.15.68.119:8888)   | [Webserver](52.15.68.119)   |
+| Harriet    | Williams    | 52.14.194.106  | [Jupyter](52.14.194.106:8888)  | [Webserver](52.14.194.106)  |
+| Shawn      | Winter      | 52.15.241.103  | [Jupyter](52.15.241.103:8888)  | [Webserver](52.15.241.103)  |
+| Stanley    | Yang        | 13.58.109.32   | [Jupyter](13.58.109.32:8888)   | [Webserver](13.58.109.32)   |
+| Mohan      | Bolisetty   | 52.14.134.216  | [Jupyter](52.14.134.216:8888)  | [Webserver](52.14.134.216)  |
+|            |             | 52.15.150.249  | [Jupyter](52.15.150.250:8888)  | [Webserver](52.15.150.250)  |
