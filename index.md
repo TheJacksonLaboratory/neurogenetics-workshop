@@ -6,26 +6,32 @@ subtitle: The Jackson Laboratory, Bar Harbor ME
 
 ### User Instances
 
-| first_Name | last_Name   | hostname       | Notebook                              | Webserver                          |
-|------------|-------------|----------------|---------------------------------------|------------------------------------|
-| David      | Brici       | 54.87.137.47   | [Jupyter](http://54.87.137.47:8888)   | [Webserver](http://54.87.137.47)   |
-| Weisheng   | Chen        | 54.90.107.230  | [Jupyter](http://54.90.107.230:8888)  | [Webserver](http://54.90.107.230)  |
-| Linda      | Cumner      | 34.203.31.95   | [Jupyter](http://34.203.31.95:8888)   | [Webserver](http://34.203.31.95)   |
-| Sarah      | DeVos       | 52.90.20.230   | [Jupyter](http://52.90.20.230:8888)   | [Webserver](http://52.90.20.230)   |
-| Jing       | Feng        | 54.224.28.85   | [Jupyter](http://54.224.28.85:8888)   | [Webserver](http://54.224.28.85)   |
-| Dongeun    | Heo         | 34.203.10.36   | [Jupyter](http://34.203.10.36:8888)   | [Webserver](http://34.203.10.36)   |
-| Simon      | Kheifets    | 34.224.39.222  | [Jupyter](http://34.224.39.222:8888)  | [Webserver](http://34.224.39.222)  |
-| Stephanie  | Kyle        | 52.90.23.65    | [Jupyter](http://52.90.23.65:8888)    | [Webserver](http://52.90.23.65)    |
-| Chantal    | Longo-Guess | 54.88.179.95   | [Jupyter](http://54.88.179.95:8888)   | [Webserver](http://54.88.179.95)   |
-| Marie      | Lucienne    | 34.207.243.128 | [Jupyter](http://34.207.243.128:8888) | [Webserver](http://34.207.243.128) |
-| Kathy      | Morelli     | 54.90.241.158  | [Jupyter](http://54.90.241.158:8888)  | [Webserver](http://54.90.241.158)  |
-| Chiamaka   | Nwakeze     | 34.224.32.85   | [Jupyter](http://34.224.32.85:8888)   | [Webserver](http://34.224.32.85)   |
-| Andrew     | Ouellette   | 52.72.236.120  | [Jupyter](http://52.72.236.120:8888)  | [Webserver](http://52.72.236.120)  |
-| Travis     | Rotterman   | 54.85.65.196   | [Jupyter](http://54.85.65.196:8888)   | [Webserver](http://54.85.65.196)   |
-| Mohammad   | Uddin       | 13.58.110.53   | [Jupyter](http://13.58.110.53:8888)   | [Webserver](http://13.58.110.53)   |
-| Joe        | Webb        | 52.15.68.119   | [Jupyter](http://52.15.68.119:8888)   | [Webserver](http://52.15.68.119)   |
-| Harriet    | Williams    | 52.14.194.106  | [Jupyter](http://52.14.194.106:8888)  | [Webserver](http://52.14.194.106)  |
-| Shawn      | Winter      | 52.15.241.103  | [Jupyter](http://52.15.241.103:8888)  | [Webserver](http://52.15.241.103)  |
-| Stanley    | Yang        | 13.58.109.32   | [Jupyter](http://13.58.109.32:8888)   | [Webserver](http://13.58.109.32)   |
-| Mohan      | Bolisetty   | 52.14.134.216  | [Jupyter](http://52.14.134.216:8888)  | [Webserver](http://52.14.134.216)  |
-|            |             | 52.15.150.249 | [Jupyter](http://52.15.150.249:8888)  | [Webserver](http://52.15.150.249)  |
+| ﻿Name                  | Affiliation                                 | Ip address                                 | Jupyter                                                          |
+|-----------------------|---------------------------------------------|--------------------------------------------|------------------------------------------------------------------|
+| Abbott, Jamie         | University at Buffalo                       | ec2-184-73-77-95.compute-1.amazonaws.com   | <a href='http://184.73.77.95:8888' target='_blank'>jupyter</a>   |
+| Bachelder, Natalia    | Jax                                         | ec2-107-20-38-192.compute-1.amazonaws.com  | <a href='http://107.20.38.192:8888' target='_blank'>jupyter</a>  |
+| Baldwin, Tionna       | The Jackson Laboratory                      | ec2-54-235-36-58.compute-1.amazonaws.com   | <a href='http://54.235.36.58:8888' target='_blank'>jupyter</a>   |
+| Chen, Micheal         | Boston Childrens                            | ec2-54-175-91-218.compute-1.amazonaws.com  | <a href='http://54.175.91.218:8888' target='_blank'>jupyter</a>  |
+| Dabrowska, Natalia    | Univeristy of Virginia                      | ec2-54-174-197-53.compute-1.amazonaws.com  | <a href='http://54.174.197.53:8888' target='_blank'>jupyter</a>  |
+| Dutca, Laura          | Iowa City VA Healthcare System              | ec2-54-175-65-5.compute-1.amazonaws.com    | <a href='http://54.175.65.5:8888' target='_blank'>jupyter</a>    |
+| Easley-Neal, Courtney | Eisai                                       | ec2-54-174-14-171.compute-1.amazonaws.com  | <a href='http://54.174.14.171:8888' target='_blank'>jupyter</a>  |
+| Guha, Srijoy          | The Jackson Laboratory                      | ec2-54-159-70-85.compute-1.amazonaws.com   | <a href='http://54.159.70.85:8888' target='_blank'>jupyter</a>   |
+| Hewes, Amanda         | The Jackson Laboratory                      | ec2-54-146-140-212.compute-1.amazonaws.com | <a href='http://54.146.140.212:8888' target='_blank'>jupyter</a> |
+| Huh, Sung-Oh          | Hallym University College of Medicine       | ec2-54-89-26-97.compute-1.amazonaws.com    | <a href='http://54.89.26.97:8888' target='_blank'>jupyter</a>    |
+| Hyacinth, Hyacinth    | CHOA/Emory Unversity SOM                    | ec2-54-86-93-189.compute-1.amazonaws.com   | <a href='http://54.86.93.189:8888' target='_blank'>jupyter</a>   |
+| Liles, Taylor         | Texas Tech University Health Science Center | ec2-54-85-218-137.compute-1.amazonaws.com  | <a href='http://54.85.218.137:8888' target='_blank'>jupyter</a>  |
+| Little, Gabi          | The Jackson Laboratory                      | ec2-52-207-242-134.compute-1.amazonaws.com | <a href='http://52.207.242.134:8888' target='_blank'>jupyter</a> |
+| MacArthur, Michael    | Harvard T.H. Chan School of Public Health   | ec2-52-207-132-252.compute-1.amazonaws.com | <a href='http://52.207.132.252:8888' target='_blank'>jupyter</a> |
+| Mitchell, Sarah       | Harvard T.H. Chan School of Public Health   | ec2-52-87-181-27.compute-1.amazonaws.com   | <a href='http://52.87.181.27:8888' target='_blank'>jupyter</a>   |
+| Mitra, Arojit         | The Jackson Laboratory                      | ec2-52-70-145-93.compute-1.amazonaws.com   | <a href='http://52.70.145.93:8888' target='_blank'>jupyter</a>   |
+| Ouellette, Andrew     | The Jackson Laboratory                      | ec2-35-171-161-177.compute-1.amazonaws.com | <a href='http://35.171.161.177:8888' target='_blank'>jupyter</a> |
+| Solon-Biet, Samantha  | University of Sydney                        | ec2-34-238-119-201.compute-1.amazonaws.com | <a href='http://34.238.119.201:8888' target='_blank'>jupyter</a> |
+| Viands, Emily         | Jackson Laboratory                          | ec2-34-229-200-138.compute-1.amazonaws.com | <a href='http://34.229.200.138:8888' target='_blank'>jupyter</a> |
+| Zwang, Theodore       | Harvard University                          | ec2-34-227-205-13.compute-1.amazonaws.com  | <a href='http://34.227.205.13:8888' target='_blank'>jupyter</a>  |
+|                       |                                             | ec2-34-227-171-96.compute-1.amazonaws.com  | <a href='http://34.227.171.96:8888' target='_blank'>jupyter</a>  |
+|                       |                                             | ec2-34-227-171-28.compute-1.amazonaws.com  | <a href='http://34.227.171.28:8888' target='_blank'>jupyter</a>  |
+|                       |                                             | ec2-34-227-106-143.compute-1.amazonaws.com | <a href='http://34.227.106.143:8888' target='_blank'>jupyter</a> |
+|                       |                                             | ec2-34-227-78-101.compute-1.amazonaws.com  | <a href='http://34.227.78.101:8888' target='_blank'>jupyter</a>  |
+|                       |                                             | ec2-34-205-140-118.compute-1.amazonaws.com | <a href='http://34.205.140.118:8888' target='_blank'>jupyter</a> |
+|                       |                                             | ec2-34-201-44-61.compute-1.amazonaws.com   | <a href='http://34.201.44.61:8888' target='_blank'>jupyter</a>   |
+|                       |                                             | ec2-18-204-208-66.compute-1.amazonaws.com  | <a href='http://18.204.208.66:8888' target='_blank'>jupyter</a>  |
